@@ -57,7 +57,7 @@ EOF
 
   s.required_ruby_version = ">= 1.8"
 
-  s.add_dependency( "nice-ffi", git: "git://github.com:hybridgroup/nice-ffi.git", branch: "bug-variadic-params" )
+  s.add_dependency("nice-ffi")
 
   s.requirements = ["SDL       >= 1.2.13",
                     "SDL_image >= 1.2.7  (optional)",

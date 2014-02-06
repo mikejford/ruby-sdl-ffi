@@ -1,8 +1,8 @@
 
 = Ruby-SDL-FFI
 
-Version::    0.4
-Date::       2011-03-06
+Version::    0.4.2
+Date::       2014-03-06
 
 Homepage::   http://github.com/rubygame/ruby-sdl-ffi/
 Author::     John Croisant <jacius@gmail.com>

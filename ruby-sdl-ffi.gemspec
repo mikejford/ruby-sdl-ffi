@@ -38,7 +38,7 @@ end
 $gemspec = Gem::Specification.new do |s|
 
   s.name     = "hybridgroup-ruby-sdl-ffi"
-  s.version  = "0.4.1"
+  s.version  = "0.4.2"
   s.authors  = ["John Croisant", "Adrian Zankich"]
   s.email    = ["jacius@gmail.com", "adrian@hybridgroup.com"]
   s.homepage = "http://github.com/hybridgroup/ruby-sdl-ffi"

@@ -1,18 +1,25 @@
+GIT
+  remote: git://github.com/hybridgroup/nice-ffi.git
+  revision: b45e7dad290fa923c28d02cdfbd10fdd9e63be53
+  branch: master
+  specs:
+    nice-ffi (0.4)
+      ffi
+
 PATH
   remote: .
   specs:
-    hybridgroup-ruby-sdl-ffi (0.4.1)
-      nice-ffi (>= 0.2)
+    hybridgroup-ruby-sdl-ffi (0.4.2)
+      nice-ffi
 
 GEM
   remote: https://rubygems.org/
   specs:
-    ffi (1.9.0)
-    nice-ffi (0.4)
-      ffi (>= 0.5.0)
+    ffi (1.9.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   hybridgroup-ruby-sdl-ffi!
+  nice-ffi!
